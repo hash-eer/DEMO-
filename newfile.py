@@ -1,1 +1,0 @@
-print("hasheer is a cool boy")
